@@ -1,2 +1,0 @@
-import{d as a,t as l,a as s,o as u}from"./index-rZAVlsgi.js";const p=["checked"],m=a({__name:"Checkbox",props:{modelValue:{type:Boolean,required:!0}},emits:["update:modelValue"],setup(t){const e=l(t,"modelValue");return(n,o)=>(u(),s("input",{type:"checkbox",class:"w-5 h-5 flex-shrink-0 rounded",checked:e.value,onChange:o[0]||(o[0]=d=>n.$emit("update:modelValue",!e.value))},null,40,p))}});export{m as _};
-//# sourceMappingURL=Checkbox.vue_vue_type_script_setup_true_lang-B69fIB_d.js.map

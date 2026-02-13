@@ -1,0 +1,2 @@
+import{d as a,c as l,a as s,t as u}from"./index-DHKwMizk.js";const p=["checked"],m=a({__name:"Checkbox",props:{modelValue:{type:Boolean,required:!0}},emits:["update:modelValue"],setup(t){const e=u(t,"modelValue");return(n,o)=>(s(),l("input",{type:"checkbox",class:"h-5 w-5 shrink-0 rounded",checked:e.value,onChange:o[0]||(o[0]=c=>n.$emit("update:modelValue",!e.value))},null,40,p))}});export{m as _};
+//# sourceMappingURL=Checkbox.vue_vue_type_script_setup_true_lang-CJPlS08V.js.map
